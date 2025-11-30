@@ -1,5 +1,6 @@
 @echo off
 @rem Batch script to package mod, deploy mod, and run Enshrouded
+@rem @Author: Khazul
 
 @set steamAppId=1203620
 

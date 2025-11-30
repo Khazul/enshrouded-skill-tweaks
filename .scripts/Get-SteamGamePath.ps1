@@ -1,4 +1,5 @@
 # Get the installation path of a Steam game by its AppID
+# @Author: Khazul
 param(
     [Parameter(Mandatory=$true)]
     [string]$AppID
