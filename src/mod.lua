@@ -1,3 +1,9 @@
+--- Khazul-SkillTweaks mod
+--- @Author Khazul
+--- @Github https://github.com/Khazul/enshrouded-skill-tweaks
+--- @mod Enshrouded Skill Tweaks
+--- @description Tweaks to various skills in Enshrouded
+
 local SkillTreePatcher = require("SkillTreePatcher")
 
 -- Skill ids of interest

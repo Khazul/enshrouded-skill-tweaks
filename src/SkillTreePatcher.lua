@@ -1,3 +1,8 @@
+--- Khazul-SkillTweaks mod
+--- @Author Khazul
+--- @Github https://github.com/Khazul/enshrouded-skill-tweaks
+--- @description lua 'class' to patch skill tree nodes and links
+
 --- Creates a shallow copy of the given table.
 -- Only the top-level keys and values are copied; nested tables are referenced.
 -- @param t table The table to copy.
