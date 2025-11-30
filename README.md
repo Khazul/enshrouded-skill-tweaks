@@ -12,4 +12,7 @@ This mod make the following changes:
 
 The code is split into mod.lua which contain this mod and SkillTreePatcher.lua which is the begining of an lua skill tree patcher class for manipulating the skill tree.
 
-*I am not very familiar with lua programming, so I am sure there are better ways to do alot of this and this is just a first stab while I get something working and get to know lua practices better.*
+This needs the **Enshrouded Mod Loader** to function: 
+- Documentation - https://github.com/Brabb3l/kfc-parser/blob/dev/docs/src/eml/index.md
+- Preview Releases - https://github.com/Brabb3l/kfc-parser/actions/workflows/build_release.yml
+
